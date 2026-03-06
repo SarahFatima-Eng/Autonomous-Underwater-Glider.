@@ -1,7 +1,36 @@
-## Adaptive Underwater Communication for Autonomous Gliders
+# Adaptive Underwater Communication for Autonomous Gliders
+
 **Duration:** Feb 2024 – May 2025
 
-This research project focuses on developing communication-aware control strategies for autonomous underwater gliders performing cooperative environmental sampling.
-The work models underwater acoustic communication by analyzing how signal attenuation, obstacles, and frequency affect the Signal-to-Noise Ratio (SNR). Simulation studies investigate diffraction, reflection, and line-of-sight obstruction effects on communication reliability.
-Optimization-based control strategies including Gradient Descent and Model Predictive Control (MPC) are implemented to guide gliders toward regions of interest while maintaining communication quality.
-The system integrates Raspberry Pi, Pixhawk, and Arduino in a distributed control architecture for navigation, sensor processing, and actuator control.
+## Overview
+This research project focused on communication-aware control strategies for autonomous underwater gliders performing cooperative environmental sampling. The work investigated how underwater acoustic communication is affected by obstacles, attenuation, and Signal-to-Noise Ratio (SNR), while also developing control methods for reliable multi-robot coordination.
+
+## My Contributions
+- Designed and integrated the electronic architecture and power system of the glider
+- Developed control approaches using Model Predictive Control (MPC)
+- Worked on communication reliability and maintaining strong SNR
+- Implemented simulation models for attenuation, obstacle effects, and underwater communication
+- Integrated Raspberry Pi, Pixhawk, and Arduino-based subsystems
+- Worked on SSH communication, signal processing, and network graph-based coordination
+- Designed selected SolidWorks parts for fitting electronics and system integration
+
+## Technologies Used
+- Python
+- MATLAB
+- Model Predictive Control (MPC)
+- Signal Processing
+- Underwater Acoustic Communication
+- Raspberry Pi
+- Pixhawk
+- Arduino
+- SSH Communication
+- Network Graph Modeling
+- Machine Learning
+- SolidWorks
+
+## Project Report
+[View Full Project Report](Autonomous_Underwater_Vehicle.pdf)
+
+## Images
+
+
