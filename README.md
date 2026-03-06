@@ -31,6 +31,6 @@ This research project focused on communication-aware control strategies for auto
 ## Project Report
 [View Full Project Report](Autonomous_Underwater_Vehicle.pdf)
 
-## Images
+## images
 
 
