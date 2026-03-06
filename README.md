@@ -32,5 +32,9 @@ This research project focused on communication-aware control strategies for auto
 [View Full Project Report](Autonomous_Underwater_Vehicle.pdf)
 
 ## images
+###[Glider with the Electronics Components](images/Complete_Glider.jpeg)
+###[ Glider with Electronics compartment](images/Glider_Electronics.jpeg)
+###[ CAD Design of Glider](images/CAD_Glider.jpeg)
+
 
 
